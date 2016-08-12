@@ -5,15 +5,15 @@ description: >-
   tough and designed to withstand harsh environments, our internal organs are
   delicate and easily damaged by the toxic chemicals from our environment, as
   well as those produced inside the body.
-dateModified: '2016-08-12T19:17:15.424Z'
-datePublished: '2016-08-12T19:18:23.543Z'
+dateModified: '2016-08-12T19:26:49.167Z'
+datePublished: '2016-08-12T19:26:49.388Z'
 title: ''
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: >-
   _posts/2016-08-12-inflammation-is-the-hidden-cause-of-heart-disease-inflammat.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
